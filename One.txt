@@ -4,4 +4,8 @@ Git has a mutable index call stage.
 Git tracks changes.
 Git again tracks changes of files.
 Creating a new branch is quick.
+<<<<<<< HEAD
 Again a new branch is quick & Simple.
+=======
+Again a new branch is quick AND simple.
+>>>>>>> feature1
