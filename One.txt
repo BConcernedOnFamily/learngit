@@ -10,3 +10,4 @@ Again a new branch is quick & Simple.
 Again a new branch is quick AND simple.
 >>>>>>> feature1
 Hello World.
+My Mom.
