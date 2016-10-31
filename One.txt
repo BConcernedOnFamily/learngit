@@ -10,8 +10,12 @@ Again a new branch is quick & Simple.
 Again a new branch is quick AND simple.
 >>>>>>> feature1
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Hello World.
 My Mom.
+=======
+Hello World.
+>>>>>>> Stashed changes
 =======
 Hello World.
 >>>>>>> Stashed changes
